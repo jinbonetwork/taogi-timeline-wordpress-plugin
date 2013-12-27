@@ -1,4 +1,4 @@
 taogi-wordpress-plugin
 ======================
 
-WordPress timeline plugin using `taogi` library.
+WordPress timeline plugin using the `taogi` library.
